@@ -6,7 +6,7 @@ site_name: Template
 theme: readthedocs
 
 nav:
-  - Home: index.md
+  - "Getting Started Guide": index.md
 
 markdown_extensions:
   - toc:
