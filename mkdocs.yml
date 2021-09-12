@@ -1,6 +1,6 @@
 
 # 站点名
-site_name: Template
+site_name: SICP-learn
 
 # 主题
 theme: readthedocs
@@ -11,3 +11,5 @@ nav:
 markdown_extensions:
   - toc:
       permalink: "#"
+      baselevel: 3
+
