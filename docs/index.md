@@ -84,3 +84,29 @@ Copyright 1984-2020 Cisco Systems, Inc.
 240
 ```
 
+
+
+基本表达式：
+
+- 数
+- 内部运算符
+- 其他名字
+
+```lisp
+(cond   (<p1> <e1>)
+        (<p2> <e2>)
+        ...
+        (<pn> <en>))
+
+(cond   (<p1> <e1>)
+        (<p2> <e2>)
+        ...
+        (else <en>))
+
+(if <predicate> <consequent> <alternative>)
+
+(lambda (<formal-parameters>) <body>)
+
+(list <a1> <a2> ... <an>)
+
+```
