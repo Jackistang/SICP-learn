@@ -1,0 +1,3 @@
+[submodule ".\\tools\\scheme-format"]
+	path = .\\tools\\scheme-format
+	url = git@github.com:masukomi/scheme-format.git
