@@ -13,7 +13,8 @@
 
 ;;;from section 4.1.4 -- must precede def of metacircular apply
 (define apply-in-underlying-scheme apply)
-
+(define true #t)
+(define false #f)
 ;;;SECTION 4.1.1
 
 (define (eval exp env)
@@ -351,7 +352,7 @@
 
 ;;;Following are commented out so as not to be evaluated when
 ;;; the file is loaded.
-;;(define the-global-environment (setup-environment))
-;;(driver-loop)
+(define the-global-environment (setup-environment))
+(driver-loop)
 
 'METACIRCULAR-EVALUATOR-LOADED

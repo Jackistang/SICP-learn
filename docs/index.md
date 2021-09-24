@@ -89,6 +89,7 @@ Copyright 1984-2020 Cisco Systems, Inc.
 仓库 resources 目录下有一些该书籍配套的资源：
 
 - [Code From The Book](https://mitpress.mit.edu/sites/default/files/sicp/code/index.html)：该书籍里的代码以及部分练习答案。
+- [SICP-Solutions](http://community.schemewiki.org/?SICP-Solutions)：书中练习题答案。
 - [Sample Programming Assignments](https://mitpress.mit.edu/sites/default/files/sicp/psets/index.html)：MIT 课程里提供的作业。
 
 
