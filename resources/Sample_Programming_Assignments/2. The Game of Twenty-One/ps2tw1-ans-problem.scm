@@ -122,3 +122,4 @@
              (second-strategy my-hand opponent-up-card))
         true
         false)))
+
