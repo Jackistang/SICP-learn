@@ -92,6 +92,7 @@ Copyright 1984-2020 Cisco Systems, Inc.
 - [SICP-Solutions](http://community.schemewiki.org/?SICP-Solutions)：书中练习题答案。
 - [Sample Programming Assignments](https://mitpress.mit.edu/sites/default/files/sicp/psets/index.html)：MIT 课程里提供的作业。
 - [Doraemonzzz 博主提供的 assignments 作业答案](https://doraemonzzz.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A/)
+- [GitHub 仓库有一些 assignments 答案](https://github.com/AyberkSorgun?tab=repositories)
 
 基本表达式：
 
